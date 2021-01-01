@@ -1,0 +1,6 @@
+<marquee>******</marquee>MARQUSINA CO MOVIMIENTO
+<img alt="imagen html de ejemplo" src="*********" width="120" height="75" />IMAGEN
+
+poner icono en encabesado
+
+<link rel="pollos icon"  type="image/x-icon" href="pollos.jpg">

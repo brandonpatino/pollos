@@ -1,0 +1,14 @@
+<html>
+<head><title>"LOS REYES"</title> </head>
+
+
+<link rel="pollos icon"  type="image/x-icon" href="pollos.jpg">
+
+<body bgcolor="" text="#000000"> 
+
+<center><H1><img alt="imagen html de ejemplo" src="Captura de pantalla (19).png" width="120" height="75" /></H1></center>
+<marquee><H2>GRACIAS POR VISITARNOS ESPERO QUE SEA DE TU AGRADO<H2></marquee>
+<a href="https://www.youtube.com/watch?v=uXPciwlfcX4"><img alt="imagen html de ejemplo" src="" width="120" height="75" /></a>
+</body>
+
+</html>

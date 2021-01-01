@@ -1,0 +1,16 @@
+<html>
+<head><title>"LOS REYES"</title> </head>
+<link rel="pollos icon"  type="image/x-icon" href="pollos.jpg">
+
+
+
+
+<body bgcolor="" text="#000000"> 
+<link rel="pollos icon"  type="image/x-icon" href="pollos.jpg"
+
+<center><H1><img alt="imagen html de ejemplo" src="Captura de pantalla (18).PNG" width="1000" height="1000" /></H1></center><center><img alt="imagen html de ejemplo" src="pollos.jpg" width="300" height="300" /></center>
+<marquee><H2><H2></marquee>
+<a href="index2.html"><center><img alt="imagen html de ejemplo" src="boton-entrar-gif.gif" width="1000" height="400" /></center></a>
+</body>
+
+</html>
